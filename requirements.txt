@@ -1,0 +1,6 @@
+langchain
+langdetect
+pydantic
+pandas
+python-dotenv
+nbclassic
