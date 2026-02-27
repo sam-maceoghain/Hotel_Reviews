@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Jupyter Notebook artifacts
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+env/
+.venv/
